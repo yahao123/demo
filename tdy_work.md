@@ -34,7 +34,7 @@
 
   ####     2.会议活动集锦
 
-  * [博鳌一龄2017答谢会视频]()
+  * [博鳌一龄2017答谢会视频](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%8D%9A%E9%B3%8C%E4%B8%80%E9%BE%842017%E7%AD%94%E8%B0%A2%E4%BC%9A%E8%A7%86%E9%A2%91.mp4)
 
   ####     3.会议暖场视频
 
