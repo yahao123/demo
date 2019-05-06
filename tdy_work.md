@@ -48,7 +48,7 @@
 
 * [服装1](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E6%9C%8D%E8%A3%851.mp4)
 * [哑铃(剧情类)](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%93%91%E9%93%83%EF%BC%88%E5%89%A7%E6%83%85%E7%B1%BB%EF%BC%89.mp4)
-* [八卷科技——短视频DEMO5](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%85%AB%E5%8D%B7%E7%A7%91%E6%8A%80%E2%80%94%E2%80%94%E7%9F%AD%E8%A7%86%E9%A2%91DEMO5.mp4)
+* [电筒](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%85%AB%E5%8D%B7%E7%A7%91%E6%8A%80%E2%80%94%E2%80%94%E7%9F%AD%E8%A7%86%E9%A2%91DEMO5.mp4)
 
 ### 采访
 
