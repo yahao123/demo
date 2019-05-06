@@ -49,6 +49,7 @@
 * [服装1](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E6%9C%8D%E8%A3%851.mp4)
 * [服装2](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E6%9C%8D%E8%A3%852.mp4)
 * [摩托车](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E6%91%A9%E6%89%98%E8%BD%A6.mp4)
+* [哑铃(剧情类)](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%93%91%E9%93%83%EF%BC%88%E5%89%A7%E6%83%85%E7%B1%BB%EF%BC%89.mp4)
 
 ### 采访
 
