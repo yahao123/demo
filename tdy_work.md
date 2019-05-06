@@ -26,10 +26,6 @@
 ### 大屏会议视频
 
   ####     1.倒计时
-
-  * [倒计时很大气](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/2.%E5%80%92%E8%AE%A1%E6%97%B6%E5%BE%88%E5%A4%A7%E6%B0%94.mpg)
-  * [颁奖晚会倒计时](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E9%A2%81%E5%A5%96%E6%99%9A%E4%BC%9A%E5%80%92%E8%AE%A1%E6%97%B6.mp4)
-  * [倒计时(高清)](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%80%92%E8%AE%A1%E6%97%B6%EF%BC%88%E9%AB%98%E6%B8%85%EF%BC%89-16.mov)
   * [震撼10秒倒计时视频](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E9%9C%87%E6%92%BC10%E7%A7%92%E5%80%92%E8%AE%A1%E6%97%B6%E8%A7%86%E9%A2%91.mp4)
 
   ####     2.会议活动集锦
