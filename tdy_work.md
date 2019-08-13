@@ -2,35 +2,35 @@
 
 ### 宣传品
 
-* [博鳌一龄生命养护中心宣传片01](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/baylsmyhzx01.mp4)
+* [博鳌一龄生命养护中心宣传片01](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%8D%9A%E9%B3%8C%E4%B8%80%E9%BE%84%E7%94%9F%E5%91%BD%E5%85%BB%E6%8A%A4%E4%B8%AD%E5%BF%83%E5%AE%A3%E4%BC%A0%E7%89%8701.mp4)
 
 ### 说电影
 
-* [流浪猫鲍勃-唐](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E6%B5%81%E6%B5%AA%E7%8C%AB%E9%B2%8D%E5%8B%83-%E5%94%90.mp4)
+* [流浪猫鲍勃-唐](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E6%B5%81%E6%B5%AA%E7%8C%AB%E9%B2%8D%E5%8B%83-%E5%94%90.mp4)
 
 ### 街坊
 
-* [街坊-蹦床](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E8%A1%97%E5%9D%8A%E2%80%94%E2%80%94%E8%B9%A6%E5%BA%8A.mp4)
+* [街坊-蹦床](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%A1%97%E5%9D%8A%E2%80%94%E2%80%94%E8%B9%A6%E5%BA%8A.mp4)
 
 ### 电影预告
 
-* [战斗民族养成记预告](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E6%88%98%E6%96%97%E6%B0%91%E6%97%8F%E5%85%BB%E6%88%90%E8%AE%B0%E9%A2%84%E5%91%8A.mp4)
+* [战斗民族养成记预告](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E6%88%98%E6%96%97%E6%B0%91%E6%97%8F%E5%85%BB%E6%88%90%E8%AE%B0%E9%A2%84%E5%91%8A.mp4)
 
 ### 电影类解析(抖音)
 
- * [绿皮书1](http://atta-dev.taoniubang.com/videos/greenPaper1.mp4)
- * [绿皮书2](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/greenPaper2.mp4)
- * [绿皮书3](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/greenPaper3.mp4)
+ * [绿皮书1](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%BB%BF%E7%9A%AE%E4%B9%A61.mp4)
+ * [绿皮书2](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%BB%BF%E7%9A%AE%E4%B9%A62.mp4)
+ * [绿皮书3](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%BB%BF%E7%9A%AE%E4%B9%A63.mp4)
 
 ### 大屏会议视频
 
   ####     1.会议活动集锦
 
-  * [博鳌一龄2017答谢会视频](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%8D%9A%E9%B3%8C%E4%B8%80%E9%BE%842017%E7%AD%94%E8%B0%A2%E4%BC%9A%E8%A7%86%E9%A2%91.mp4)
+  * [博鳌一龄2017答谢会视频](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%8D%9A%E9%B3%8C%E4%B8%80%E9%BE%842017%E7%AD%94%E8%B0%A2%E4%BC%9A%E8%A7%86%E9%A2%91.mp4)
 
   ####     2.会议暖场视频
 
-  * [15号小妈妈大母亲换音乐最终版](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/15%E5%8F%B7%E5%B0%8F%E5%A6%88%E5%A6%88%E5%A4%A7%E6%AF%8D%E4%BA%B2%E6%8D%A2%E9%9F%B3%E4%B9%90%E6%9C%80%E7%BB%88%E7%89%88.mp4)
+  * [15号小妈妈大母亲换音乐最终版](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/15%E5%8F%B7%E5%B0%8F%E5%A6%88%E5%A6%88%E5%A4%A7%E6%AF%8D%E4%BA%B2%E6%8D%A2%E9%9F%B3%E4%B9%90%E6%9C%80%E7%BB%88%E7%89%88.mp4)
 
   ####     3.上场视频
 
@@ -38,12 +38,20 @@
 
 ### 产品(淘宝视频)
 
-* [服装1](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E6%9C%8D%E8%A3%851.mp4)
-* [哑铃(剧情类)](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%93%91%E9%93%83%EF%BC%88%E5%89%A7%E6%83%85%E7%B1%BB%EF%BC%89.mp4)
+* [服装1](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E6%9C%8D%E8%A3%851.mp4)
+* [哑铃(剧情类)](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%93%91%E9%93%83%EF%BC%88%E5%89%A7%E6%83%85%E7%B1%BB%EF%BC%89.mp4)
 * [电筒](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%85%AB%E5%8D%B7%E7%A7%91%E6%8A%80%E2%80%94%E2%80%94%E7%9F%AD%E8%A7%86%E9%A2%91DEMO5.mp4)
 
 ### 采访
 
-* [采访白鹭](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E9%87%87%E8%AE%BF%E7%99%BD%E9%B9%AD.mp4)
-* [采访夏梦怡](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E9%87%87%E8%AE%BF%E5%A4%8F%E6%A2%A6%E6%80%A1%EF%BC%88%E4%BA%A7%E5%93%81%E5%B9%BF%E5%91%8A%EF%BC%89.mp4)
+* [采访白鹭](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E9%87%87%E8%AE%BF%E7%99%BD%E9%B9%AD.mp4)
+
+### 信息流
+* [闺蜜奶茶](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E9%97%BA%E8%9C%9C%E5%A5%B6%E8%8C%B6.mp4)
+* [购物](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%B4%AD%E7%89%A9.mp4)
+* [节日送礼](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%8A%82%E6%97%A5%E9%80%81%E7%A4%BC.mp4)
+* [算钱](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%AE%97%E9%92%B1.mp4)
+* [男同事](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%94%B7%E5%90%8C%E4%BA%8B.mp4)
+* [强行卖水](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%BC%BA%E8%A1%8C%E5%8D%96%E6%B0%B4.mp4)
+* [大奔](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%A4%A7%E5%A5%94.mp4)
 
