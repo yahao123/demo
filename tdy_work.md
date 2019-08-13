@@ -11,7 +11,6 @@
 ### 街坊
 
 * [街坊-蹦床](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E8%A1%97%E5%9D%8A%E2%80%94%E2%80%94%E8%B9%A6%E5%BA%8A.mp4)
-* [街坊-空竹](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E8%A1%97%E5%9D%8A%E2%80%94%E2%80%94%E7%A9%BA%E7%AB%B9.mp4)
 
 ### 电影预告
 
@@ -25,18 +24,15 @@
 
 ### 大屏会议视频
 
-  ####     1.倒计时
-  * [震撼10秒倒计时视频](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E9%9C%87%E6%92%BC10%E7%A7%92%E5%80%92%E8%AE%A1%E6%97%B6%E8%A7%86%E9%A2%91.mp4)
-
-  ####     2.会议活动集锦
+  ####     1.会议活动集锦
 
   * [博鳌一龄2017答谢会视频](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%8D%9A%E9%B3%8C%E4%B8%80%E9%BE%842017%E7%AD%94%E8%B0%A2%E4%BC%9A%E8%A7%86%E9%A2%91.mp4)
 
-  ####     3.会议暖场视频
+  ####     2.会议暖场视频
 
   * [15号小妈妈大母亲换音乐最终版](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/15%E5%8F%B7%E5%B0%8F%E5%A6%88%E5%A6%88%E5%A4%A7%E6%AF%8D%E4%BA%B2%E6%8D%A2%E9%9F%B3%E4%B9%90%E6%9C%80%E7%BB%88%E7%89%88.mp4)
 
-  ####     4.上场视频
+  ####     3.上场视频
 
   * [陈镘西上场视频加落版4.18.mp4 （已调背景音）](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E9%99%88%E9%95%98%E8%A5%BF%E4%B8%8A%E5%9C%BA%E8%A7%86%E9%A2%91%E5%8A%A0%E8%90%BD%E7%89%884.18.mp4%20%EF%BC%88%E5%B7%B2%E8%B0%83%E8%83%8C%E6%99%AF%E9%9F%B3%EF%BC%89.mp4)
 
