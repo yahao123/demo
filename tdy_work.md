@@ -1,5 +1,17 @@
 # 作品
-
+### 抖音
+ #### 电影类解析
+ * [绿皮书1](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%BB%BF%E7%9A%AE%E4%B9%A61.mp4)
+ * [绿皮书2](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%BB%BF%E7%9A%AE%E4%B9%A62.mp4)
+ * [绿皮书3](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%BB%BF%E7%9A%AE%E4%B9%A63.mp4)
+ #### 信息流
+ * [购物](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%B4%AD%E7%89%A9.mp4)
+ * [节日送礼](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%8A%82%E6%97%A5%E9%80%81%E7%A4%BC.mp4)
+ * [男同事](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%94%B7%E5%90%8C%E4%BA%8B.mp4)
+ #### 搞笑
+ * [强行卖水](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%BC%BA%E8%A1%8C%E5%8D%96%E6%B0%B4.mp4)
+ * [大奔](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%A4%A7%E5%A5%94.mp4)
+ * [闺蜜奶茶](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E9%97%BA%E8%9C%9C%E5%A5%B6%E8%8C%B6.mp4)
 ### 宣传品
 
 * [博鳌一龄生命养护中心宣传片01](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%8D%9A%E9%B3%8C%E4%B8%80%E9%BE%84%E7%94%9F%E5%91%BD%E5%85%BB%E6%8A%A4%E4%B8%AD%E5%BF%83%E5%AE%A3%E4%BC%A0%E7%89%8701.mp4)
@@ -46,12 +58,5 @@
 
 * [采访白鹭](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E9%87%87%E8%AE%BF%E7%99%BD%E9%B9%AD.mp4)
 
-### 信息流
-* [闺蜜奶茶](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E9%97%BA%E8%9C%9C%E5%A5%B6%E8%8C%B6.mp4)
-* [购物](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%B4%AD%E7%89%A9.mp4)
-* [节日送礼](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%8A%82%E6%97%A5%E9%80%81%E7%A4%BC.mp4)
-* [算钱](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%AE%97%E9%92%B1.mp4)
-* [男同事](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E7%94%B7%E5%90%8C%E4%BA%8B.mp4)
-* [强行卖水](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%BC%BA%E8%A1%8C%E5%8D%96%E6%B0%B4.mp4)
-* [大奔](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%A4%A7%E5%A5%94.mp4)
+
 
