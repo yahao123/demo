@@ -50,9 +50,8 @@
 
 ### 产品(淘宝视频)
 
-* [服装1](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E6%9C%8D%E8%A3%851.mp4)
-* [哑铃(剧情类)](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%93%91%E9%93%83%EF%BC%88%E5%89%A7%E6%83%85%E7%B1%BB%EF%BC%89.mp4)
-* [电筒](http://tnb-dev.oss-cn-beijing.aliyuncs.com/videos/%E5%85%AB%E5%8D%B7%E7%A7%91%E6%8A%80%E2%80%94%E2%80%94%E7%9F%AD%E8%A7%86%E9%A2%91DEMO5.mp4)
+* [电筒](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%85%AB%E5%8D%B7%E7%A7%91%E6%8A%80%E2%80%94%E2%80%94%E7%9F%AD%E8%A7%86%E9%A2%91DEMO5.mp4)
+* [背包](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%83%8C%E5%8C%85%E6%9C%80%E7%BB%88%E7%89%88.mp4)
 **********
 
 ### 采访
