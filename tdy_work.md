@@ -12,6 +12,7 @@
  * [老板办公室](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%80%81%E6%9D%BF%E5%8A%9E%E5%85%AC%E5%AE%A4.mp4)
  * [我养你啊](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E6%88%91%E5%85%BB%E4%BD%A0%E5%95%8A.mp4)
  * [赚一个亿](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E8%B5%9A%E4%B8%80%E4%B8%AA%E4%BA%BF2019.9.6.mp4)
+ * [决一死战](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%86%B3%E4%B8%80%E6%AD%BB%E6%88%982019.9.23.mp4)
  #### 3. 搞笑
  * [强行卖水](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%BC%BA%E8%A1%8C%E5%8D%96%E6%B0%B4.mp4)
  * [大奔](https://wangyahao.oss-cn-beijing.aliyuncs.com/tangtang_video/%E5%A4%A7%E5%A5%94.mp4)
